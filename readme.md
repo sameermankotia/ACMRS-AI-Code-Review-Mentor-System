@@ -20,7 +20,7 @@ This tool enhances traditional code review processes by combining multiple analy
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ai-code-review.git
+   git clone https://github.com/sameermankotia/ai-code-review.git
    cd ai-code-review
    ```
 
